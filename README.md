@@ -74,7 +74,7 @@ We collected data from multiple sources:
 - Animated visualization showing dominance of startup sectors over time  
 - **E.g., Rise of FinTech & Crypto startups post-2015**  
 
-![Bar Chart Race](images/bar_chart_race.gif)  
+![Bar Chart Race](images/bar_chart_race.png)  
 
 ---
 
@@ -84,10 +84,10 @@ We collected data from multiple sources:
 
 ![Team Size Chart](images/team_size.png)  
 
-#### **5. Funding Rounds (Airbnb, Stripe, DoorDash, Reddit)**  
-- Investment growth across **Seed → Series D rounds**  
+#### **5. Revenue and Losses**  
+- Revenue and Losses **of the top 4 YC Startups**  
 
-![Funding Rounds](images/funding_rounds.png)  
+![Funding Rounds](images/revenue_and_losses.png)  
 
 ---
 

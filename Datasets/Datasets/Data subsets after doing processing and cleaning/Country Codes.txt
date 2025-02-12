@@ -1,0 +1,76 @@
+'US'- United States
+'GB'- United Kingdom
+'DE'- Germany
+'JP'- Japan
+'CA'- Canada
+'DK'- Denmark
+'IE'- Ireland
+'CN'- China
+'SE'- Sweden
+'SN'- Senegal
+'IL'- Israel
+'IN'- India
+'TR'- Turkey
+'GR'- Greece
+'HK'- Hong Kong
+'MX'- Mexico
+'PL'- Poland 
+'PH'- Philippines 
+'BR'- Brazil 
+'AT'- Austria
+'NL'- Netherlands
+'FR'- France 
+'KE'- Kenya 
+'NP'- Nepal
+'ES'- Spain 
+'SI'- Slovenia
+'AR'- Argentina 
+'TH'- Thailand
+'BD'- Bangladesh
+'ID'- Indonesia
+'SG'- Singapore
+'EG- Egypt 
+'KR'- South Korea
+'GH'- Ghana
+'RU'- Romania 
+'NO'- Norway 
+'CO'- Columbia
+'NG'- Nigeria 
+'HU'- Hungary
+'ZA'- South Africa
+'MA'- Morocco
+'MY'- Malaysia
+'NZ'- New Zealand 
+'PT'- Portugal
+'LV'- Latvia
+'VN'- Vietnam 
+'CL'- Chile 
+'SC'- Seychelles
+'IQ'- Iraq 
+'PE'- Peru 
+'CZ'- Czech Republic
+'AU'- Australia
+'PA'- Panama
+'DZ'- Algeria
+'PK'- Pakistan
+'IT'- Italy 
+'TZ'- Tanzania
+'ET'- Ethiopia
+'GE'- Georgia
+'BE'- Belgium
+'CH'- Switzerland
+'RO'- Romania
+'ZM'- Zambia
+'LT'- Lithuania
+'FI'- Finland 
+'EE'- Estonia
+'EC'- Ecuador
+'CY'- Cyprus
+'HR'- Croatia
+'UG'- Uganda 
+'VE'- Venezuela
+'TW'- Taiwan 
+'BH'- Bahrain
+'CR'- Costa Rica
+'SA'- South Africa
+'UY'- Uruguay

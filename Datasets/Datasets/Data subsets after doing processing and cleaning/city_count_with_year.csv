@@ -1,0 +1,1355 @@
+location,batch,0
+NY,IK12,1
+Palo Alto,IK12,6
+"Athens, Greece",IK12,1
+"Philadelphia, PA",IK12,1
+"Pittsburgh, PA",IK12,2
+"London, United Kingdom",IK12,1
+"Austin, TX",IK12,1
+"Raleigh, NC",IK12,1
+Mountain View,IK12,1
+"Inglewood, CA",IK12,1
+"Toronto, Canada",IK12,3
+"Chicago, IL",IK12,3
+"San Carlos, CA",IK12,1
+"San Diego, CA",IK12,1
+San Francisco,IK12,20
+"Bengaluru, India",IK12,1
+"Cambridge, MA",IK12,1
+"San Jose, CA",IK12,1
+"San Leandro, CA",IK12,1
+"San Mateo, CA",IK12,4
+"Berkeley, CA",IK12,2
+Boston,IK12,3
+"Durham, NC",IK12,1
+"Edmonton, Canada",IK12,3
+"Redwood City, CA",IK12,1
+New York,IK12,3
+"Oakland, CA",IK12,3
+"Kitchener, Canada",IK12,1
+"Menlo Park, CA",IK12,1
+"Somerville, MA",S05,1
+"Redmond, WA",S05,1
+San Francisco,S05,2
+"London, United Kingdom",S05,1
+"Cambridge, MA",S05,1
+"Wallingford, CT",S05,1
+Mountain View,S05,1
+Boston,S06,1
+"Cambridge, MA",S06,1
+San Francisco,S06,3
+Palo Alto,S06,1
+"Seattle, WA",S06,1
+New York,S06,1
+"Burlingame, CA",S07,1
+Japan,S07,1
+"Watertown, MA",S07,1
+San Francisco,S07,7
+New York,S07,1
+"Southfield, MI",S07,1
+Boston,S07,1
+"Akron, OH",S07,1
+United Kingdom,S07,1
+Palo Alto,S07,1
+"Copenhagen, Denmark",S08,1
+New York,S08,1
+San Francisco,S08,6
+"Columbia, MD",S08,1
+NY,S08,1
+"Lucerne Valley, CA",S08,1
+Palo Alto,S08,1
+"Portland, OR",S08,1
+"Cambridge, MA",S08,1
+Boston,S08,2
+San Francisco,S09,12
+"Minneapolis, MN",S09,1
+"Burlingame, CA",S09,1
+"Campbell, CA",S09,1
+New York,S09,1
+Palo Alto,S09,2
+"Ann Arbor, MI",S09,1
+"Redwood City, CA",S09,1
+Mountain View,S09,2
+"London, United Kingdom",S10,1
+"Sunnyvale, CA",S10,1
+"Los Angeles, CA",S10,2
+"San Carlos, CA",S10,1
+"Cupertino, CA",S10,1
+Mountain View,S10,2
+New York,S10,2
+"Seattle, WA",S10,1
+"Columbus, OH",S10,1
+San Francisco,S10,20
+Palo Alto,S10,1
+"Burlingame, CA",S11,1
+"Berkeley, CA",S11,1
+"San Mateo, CA",S11,2
+"Hayward, CA",S11,1
+"Boulder, CO",S11,1
+NY,S11,2
+Palo Alto,S11,2
+"Kitchener, Canada",S11,1
+"London, United Kingdom",S11,1
+"Los Angeles, CA",S11,1
+San Francisco,S11,35
+Mountain View,S11,6
+New York,S11,1
+"Chicago, IL",S11,3
+"Menlo Park, CA",S11,1
+"Hong Kong, Hong Kong",S12,1
+"Seattle, WA",S12,1
+"Columbia, MD",S12,1
+"Redwood City, CA",S12,1
+"Los Angeles, CA",S12,1
+"Cupertino, CA",S12,1
+"Sacramento, CA",S12,1
+"Boulder, CO",S12,1
+Palo Alto,S12,4
+NY,S12,1
+"Hamlin, NY",S12,1
+"Gainesville, FL",S12,1
+"Cambridge, MA",S12,1
+New York,S12,4
+"Burlingame, CA",S12,2
+"Missoula, MT",S12,1
+CA,S12,2
+Mountain View,S12,7
+"San Antonio, TX",S12,1
+San Francisco,S12,33
+"San Jose, CA",S12,1
+"Austin, TX",S12,1
+United Kingdom,S12,1
+"Menlo Park, CA",S12,1
+Israel,S12,1
+"Waterloo, Canada",S12,1
+"London, United Kingdom",S12,1
+"Atlanta, GA",S12,1
+"Bengaluru, India",S12,1
+San Francisco,S13,26
+"Berkeley, CA",S13,1
+"Fayetteville, AR",S13,1
+"Mexico City, Mexico",S13,1
+"Newport Beach, CA",S13,1
+"Kraków, Poland",S13,1
+New York,S13,1
+"Austin, TX",S13,1
+"Rio de Janeiro, Brazil",S13,1
+"Virginia Beach, VA",S13,1
+"Sunnyvale, CA",S13,1
+Mountain View,S13,6
+"San Mateo, CA",S13,1
+"Berlin, Germany",S13,1
+Palo Alto,S13,2
+"Kitchener, Canada",S13,1
+"Portland, OR",S13,1
+Boston,S13,1
+"Waterloo, Canada",S14,2
+"Sunnyvale, CA",S14,1
+"Washington, DC",S14,1
+San Francisco,S14,32
+"San Leandro, CA",S14,1
+"Amsterdam, Netherlands",S14,1
+"San Mateo, CA",S14,3
+"Toronto, Canada",S14,1
+"San Diego, CA",S14,1
+"Carlsbad, CA",S14,1
+Austria,S14,1
+"Chicago, IL",S14,1
+"Everett, WA",S14,1
+"Redwood City, CA",S14,1
+"Los Angeles, CA",S14,1
+"London, Canada",S14,1
+"Philadelphia, PA",S14,1
+"Davis, CA",S14,1
+"Paris, France",S14,1
+Mountain View,S14,2
+Palo Alto,S14,2
+"Kitchener, Canada",S14,2
+New York,S14,8
+"Berkeley, CA",S14,3
+"South San Francisco, CA",S14,1
+"London, United Kingdom",S14,2
+NY,S14,1
+"Santa Clara, CA",S14,1
+Boston,S14,1
+"Reno, NV",S15,1
+"Richmond, VA",S15,1
+"Chicago, IL",S15,1
+"Tel Aviv-Yafo, Israel",S15,1
+New York,S15,9
+"Berkeley, CA",S15,3
+"London, United Kingdom",S15,4
+Boston,S15,2
+"Kathmandu, Nepal",S15,1
+"Indianapolis, IN",S15,1
+San Francisco,S15,41
+"Toronto, Canada",S15,3
+Hong Kong,S15,1
+"Redwood City, CA",S15,2
+NY,S15,1
+"Austin, TX",S15,1
+"Los Angeles, CA",S15,2
+"Dakar, Senegal",S15,1
+"Jakarta, Indonesia",S15,1
+"Emeryville, CA",S15,1
+"Paris, France",S15,1
+"Oakland, CA",S15,3
+"Singapore, Singapore",S15,1
+Palo Alto,S15,2
+Mountain View,S15,1
+"Dhaka, Bangladesh",S15,1
+"Atlanta, GA",S15,3
+"Santa Monica, CA",S15,1
+"San Jose, CA",S15,2
+"Nairobi, Kenya",S15,1
+"San Leandro, CA",S15,1
+"Stockholm, Sweden",S15,1
+"Gurugram, India",S15,1
+"San Mateo, CA",S15,2
+"Mumbai, India",S15,1
+"Miami, FL",S15,1
+"Santa Clara, CA",S15,1
+"St. Louis, MO",S15,1
+"Bentonville, AR",S15,1
+"Nashville, TN",S16,1
+"New Delhi, India",S16,1
+"Toronto, Canada",S16,3
+"Redwood City, CA",S16,1
+"Somerville, MA",S16,1
+"Chicago, IL",S16,1
+"Salt Lake City, UT",S16,1
+"Santa Monica, CA",S16,1
+"Montreal, Canada",S16,1
+"Tel Aviv-Yafo, Israel",S16,2
+"Austin, TX",S16,2
+"Moscow, Russia",S16,1
+"Cupertino, CA",S16,1
+"Accra, Ghana",S16,1
+New York,S16,5
+"Los Angeles, CA",S16,4
+"Seoul, South Korea",S16,1
+"Paris, France",S16,2
+"Kitchener, Canada",S16,1
+"Oakland, CA",S16,3
+Palo Alto,S16,5
+"Singapore, Singapore",S16,1
+"Atlanta, GA",S16,3
+Mountain View,S16,1
+"Lagos, Nigeria",S16,1
+"Culver City, CA",S16,1
+"Berkeley, CA",S16,2
+"San Mateo, CA",S16,3
+"Guadalajara, Mexico",S16,1
+"Miami, FL",S16,1
+"San Jose, CA",S16,3
+San Francisco,S16,34
+"London, United Kingdom",S16,1
+"Marina del Rey, CA",S16,1
+"Bengaluru, India",S16,2
+"Burlingame, CA",S16,1
+"Santa Fe, NM",S16,1
+"São José dos Campos, Brazil",S16,1
+"Fremont, CA",S16,1
+"Amsterdam, Netherlands",S16,1
+Boston,S16,1
+"Walnut, CA",S17,1
+"Seattle, WA",S17,1
+"Bogotá, Colombia",S17,1
+"Bengaluru, India",S17,6
+"Menlo Park, CA",S17,2
+"Copenhagen, Denmark",S17,1
+"South San Francisco, CA",S17,1
+"Austin, TX",S17,4
+"Auckland, New Zealand",S17,1
+"San Jose, CA",S17,2
+"Los Angeles, CA",S17,4
+"Livermore, CA",S17,1
+"Sunnyvale, CA",S17,2
+"Oakland, CA",S17,2
+"Las Vegas, NV",S17,1
+"Jakarta, Indonesia",S17,1
+"Johannesburg, South Africa",S17,1
+"Atlanta, GA",S17,1
+"London, United Kingdom",S17,6
+"Kuala Lumpur, Malaysia",S17,1
+Palo Alto,S17,6
+"Zapopan, Mexico",S17,1
+Brazil,S17,1
+"Paris, France",S17,1
+San Francisco,S17,50
+"Ann Arbor, MI",S17,2
+"New Orleans, LA",S17,1
+"Toronto, Canada",S17,2
+"Portland, OR",S17,1
+"Montreal, Canada",S17,1
+"Tel Aviv-Yafo, Israel",S17,2
+New York,S17,7
+"Santa Monica, CA",S17,1
+"San Mateo, CA",S17,1
+"Oregon City, OR",S17,1
+"Cambridge, United Kingdom",S17,1
+"Lagos, Nigeria",S17,2
+"Berkeley, CA",S17,1
+"Mumbai, India",S17,1
+"Redwood City, CA",S17,1
+CA,S17,1
+"Mexico City, Mexico",S18,2
+"Washington, DC",S18,1
+"Miami, FL",S18,1
+"Lisbon, Portugal",S18,1
+"Jakarta, Indonesia",S18,1
+Mountain View,S18,4
+"Durham, NC",S18,1
+"Monterrey, Mexico",S18,2
+"Oakland, CA",S18,4
+Palo Alto,S18,6
+"Istanbul, Turkey",S18,1
+"San Carlos, CA",S18,2
+"Nantes, France",S18,1
+"Berlin, Germany",S18,1
+"Atlanta, GA",S18,1
+"Cambridge, United Kingdom",S18,1
+San Francisco,S18,37
+"Dubai, United Arab Emirates",S18,1
+"Berkeley, CA",S18,1
+"San Mateo, CA",S18,1
+"Singapore, Singapore",S18,1
+"San Jose, CA",S18,2
+"San Diego, CA",S18,1
+New York,S18,12
+"Toronto, Canada",S18,2
+"Houston, TX",S18,2
+"Los Angeles, CA",S18,3
+"Menlo Park, CA",S18,1
+"Santa Clara, CA",S18,1
+"Austin, TX",S18,1
+"Lagos, Nigeria",S18,3
+"Redwood City, CA",S18,3
+"San Juan, Puerto Rico",S18,1
+"Milpitas, CA",S18,1
+"London, United Kingdom",S18,2
+"Seattle, WA",S18,3
+"Cambridge, MA",S18,1
+"New Delhi, India",S18,1
+"Bengaluru, India",S18,2
+"Santiago, Chile",S18,2
+"Chicago, IL",S18,1
+"Shanghai, China",S18,1
+"Beijing, China",S18,1
+"Warsaw, Poland",S18,1
+"Tel Aviv-Yafo, Israel",S18,1
+"Tempe, AZ",S18,1
+CA,S18,1
+"Novato, CA",S18,1
+"Pittsburgh, PA",S18,1
+"Gurugram, India",S18,1
+"Waterloo, Canada",S18,1
+Boston,S18,3
+"Waterloo, Canada",S19,1
+"Los Angeles, CA",S19,4
+New York,S19,21
+"New Delhi, India",S19,1
+"Emeryville, CA",S19,1
+"Winston-Salem, NC",S19,1
+Mountain View,S19,3
+"Munich, Germany",S19,1
+"Chicago, IL",S19,2
+"Jakarta, Indonesia",S19,1
+"Cali, Colombia",S19,1
+San Francisco,S19,50
+"Hyderabad, India",S19,2
+"Cairo, Egypt",S19,2
+"Kraków, Poland",S19,1
+"Bengaluru, India",S19,7
+CA,S19,1
+"Mesa, AZ",S19,1
+"State College, PA",S19,1
+"San Jose, CA",S19,1
+"Buenos Aires, Argentina",S19,2
+"St. Louis, MO",S19,1
+"Miami, FL",S19,1
+"Brisbane, CA",S19,1
+"Boulder, CO",S19,1
+Boston,S19,4
+"Boise, ID",S19,1
+"London, United Kingdom",S19,4
+"Berkeley, CA",S19,2
+"Bogotá, Colombia",S19,2
+"St. John's, Canada",S19,2
+"Seattle, WA",S19,3
+"Mexico City, Mexico",S19,6
+"Oakland, CA",S19,4
+"Sydney, Australia",S19,1
+"Cambridge, MA",S19,1
+"Toronto, Canada",S19,3
+"Earth, TX",S19,1
+"Victoria, Canada",S19,1
+"Ventura, CA",S19,1
+Palo Alto,S19,1
+"Atlanta, GA",S19,1
+"Paris, France",S19,4
+"Pasadena, CA",S19,1
+"Ljubljana, Slovenia",S19,1
+"Portland, OR",S19,1
+"Austin, TX",S19,3
+"Redwood City, CA",S19,2
+"Lehi, UT",S19,1
+"São Paulo, Brazil",S19,1
+"Lima, Peru",S19,1
+"Taguig, Philippines",S19,1
+"Charlotte, NC",S19,2
+"Champaign, IL",S19,1
+"Melbourne, Australia",S19,1
+"Remote, OR",S19,1
+"San Carlos, CA",S19,1
+"San Diego, CA",S19,1
+"Miami, FL",S20,2
+"Irvine, CA",S20,1
+"Hyderabad, India",S20,1
+"Houston, TX",S20,2
+"Montreal, Canada",S20,1
+"Jakarta, Indonesia",S20,1
+Mountain View,S20,2
+"Mexico City, Mexico",S20,3
+"Monterrey, Mexico",S20,1
+"San Diego, CA",S20,1
+"Burlington, MA",S20,1
+"Burlington, VT",S20,1
+"Los Angeles, CA",S20,6
+"San Jose, CA",S20,3
+"Williamsburg, VA",S20,1
+"Amsterdam, Netherlands",S20,1
+"Buenos Aires, Argentina",S20,1
+"San Leandro, CA",S20,1
+Brazil,S20,1
+"Santa Clara, CA",S20,1
+"London, United Kingdom",S20,11
+"Santa Cruz, CA",S20,1
+Boston,S20,2
+San Francisco,S20,58
+"Bogotá, Colombia",S20,1
+Singapore,S20,1
+"Berlin, Germany",S20,2
+"Singapore, Singapore",S20,3
+"Berkeley, CA",S20,1
+"Stockholm, Sweden",S20,1
+"Bengaluru, India",S20,8
+"São Paulo, Brazil",S20,2
+"Barcelona, Spain",S20,1
+"Toronto, Canada",S20,5
+"Lahore, Pakistan",S20,1
+United Kingdom,S20,1
+"Atlanta, GA",S20,4
+"Seattle, WA",S20,4
+"Vancouver, Canada",S20,1
+"Cairo, Egypt",S20,1
+"Denver, CO",S20,2
+NY,S20,1
+"Nairobi, Kenya",S20,1
+"Gurugram, India",S20,2
+"Guadalajara, Mexico",S20,1
+"Exeter, United Kingdom",S20,1
+New York,S20,34
+"Edmonton, Canada",S20,1
+"Oslo, Norway",S20,1
+"Durham, NC",S20,1
+"Padua, Italy",S20,1
+"Des Moines, IA",S20,1
+"Cambridge, MA",S20,1
+"Villanova, PA",S20,1
+"Panama City, Panama",S20,1
+"Paris, France",S20,3
+"Kitchener, Canada",S20,1
+"Philadelphia, PA",S20,1
+"Pleasanton, CA",S20,1
+"Portland, OR",S20,2
+"Providencia, Chile",S20,1
+"Raleigh, NC",S20,1
+"Chicago, IL",S20,1
+"Salt Lake City, UT",S20,1
+"Los Altos, CA",S20,1
+"Charlotte, NC",S20,1
+Palo Alto,S20,1
+"Lima, Peru",S21,2
+"Limerick, Ireland",S21,2
+"Los Angeles, CA",S21,12
+"Makati, Philippines",S21,1
+"London, United Kingdom",S21,18
+"Lusaka, Zambia",S21,1
+"Los Gatos, CA",S21,1
+"Lisbon, Portugal",S21,1
+"Maringá, Brazil",S21,1
+"A Coruña, Spain",S21,1
+"Memphis, TN",S21,1
+"Santa Clara, CA",S21,1
+"Santa Monica, CA",S21,2
+"Santiago, Chile",S21,7
+"Seattle, WA",S21,4
+"Singapore, Singapore",S21,13
+"St. Louis, MO",S21,1
+"Sunnyvale, CA",S21,4
+"Sydney, Australia",S21,1
+"São Carlos, Brazil",S21,1
+"São Paulo, Brazil",S21,7
+"Tallinn, Estonia",S21,1
+"San Mateo, CA",S21,1
+"Tbilisi, Georgia",S21,1
+"Toronto, Canada",S21,8
+"Traverse City, MI",S21,1
+"Truckee, CA",S21,1
+"Uberlândia, Brazil",S21,1
+"Urbana, IL",S21,1
+"Utrecht, Netherlands",S21,1
+"Vancouver, Canada",S21,2
+"Victoria, Canada",S21,1
+"Washington, DC",S21,1
+"Windhoek, Namibia",S21,1
+"Zürich, Switzerland",S21,2
+"Tel Aviv-Yafo, Israel",S21,1
+"San Jose, CA",S21,3
+San Francisco,S21,75
+"San Clemente, CA",S21,1
+"Menlo Park, CA",S21,1
+"Mexico City, Mexico",S21,10
+"Miami, FL",S21,6
+"Monterrey, Mexico",S21,10
+Mountain View,S21,2
+"Mumbai, India",S21,3
+"Munich, Germany",S21,2
+"Mérida, Mexico",S21,1
+"Nairobi, Kenya",S21,1
+"New Delhi, India",S21,2
+New York,S21,32
+"Nicosia, Cyprus",S21,1
+"Oakland, CA",S21,1
+"Ottawa, Canada",S21,1
+Pakistan,S21,1
+Palo Alto,S21,4
+"Paris, France",S21,7
+"Philadelphia, PA",S21,1
+Philippines,S21,1
+"Pittsburgh, PA",S21,2
+"Quito, Ecuador",S21,1
+"Redwood City, CA",S21,1
+"Remote, OR",S21,1
+"Rochester, NY",S21,1
+"Salt Lake City, UT",S21,1
+"McKinney, TX",S21,1
+"Rio de Janeiro, Brazil",S21,2
+"Mill Valley, CA",S21,1
+"Bengaluru, India",S21,17
+"Hoboken, NJ",S21,1
+"Honolulu, HI",S21,1
+"Houston, TX",S21,1
+"Accra, Ghana",S21,1
+"Brisbane, Australia",S21,1
+"Delhi, India",S21,3
+"Cape Town, South Africa",S21,1
+"Buenos Aires, Argentina",S21,1
+"Delaware City, DE",S21,1
+"Kitchener, Canada",S21,1
+"Davis, CA",S21,1
+"Barcelona, Spain",S21,2
+"Amsterdam, Netherlands",S21,2
+"Dallas, TX",S21,1
+"Austin, TX",S21,8
+"Hyderabad, India",S21,2
+India,S21,1
+"Copenhagen, Denmark",S21,2
+"Irvine, CA",S21,2
+"Islamabad, Pakistan",S21,1
+"Baltimore, MD",S21,1
+"Cairo, Egypt",S21,3
+"Calgary, Canada",S21,1
+"Chicago, IL",S21,2
+"Cambridge, MA",S21,1
+"Jakarta, Indonesia",S21,3
+"Casablanca, Morocco",S21,2
+"Cambridge, United Kingdom",S21,1
+Canada,S21,1
+Boston,S21,9
+"Denver, CO",S21,1
+"Bucharest, Romania",S21,1
+FL,S21,1
+"Helsinki, Finland",S21,1
+"Emeryville, CA",S21,1
+"Berkeley, CA",S21,3
+"Ho Chi Minh City, Vietnam",S21,1
+"Las Vegas, NV",S21,1
+"Foster City, CA",S21,1
+"Fort Worth, TX",S21,1
+"Galway, Ireland",S21,1
+"Bogotá, Colombia",S21,2
+"Evanston, IL",S21,1
+"Berlin, Germany",S21,2
+"Atlanta, GA",S21,2
+"Lausanne, Switzerland",S21,1
+"Kraków, Poland",S21,1
+"Lagos, Nigeria",S21,4
+"Dublin, Ireland",S21,1
+"Dubai, United Arab Emirates",S21,1
+"Gurugram, India",S21,1
+"Kuala Lumpur, Malaysia",S21,1
+"Tokyo, Japan",S22,1
+"Cincinnati, OH",S22,1
+"College Park, MD",S22,1
+"Redwood City, CA",S22,1
+"Mexico City, Mexico",S22,6
+"Torrance, CA",S22,1
+"Riyadh, Saudi Arabia",S22,2
+"Nairobi, Kenya",S22,1
+"Foster City, CA",S22,1
+"Issaquah, WA",S22,1
+"Istanbul, Turkey",S22,1
+"Jaipur, India",S22,1
+"Jakarta, Indonesia",S22,2
+"Salt Lake City, UT",S22,2
+"Galway, Ireland",S22,1
+"Geneva, Switzerland",S22,1
+"Chicago, IL",S22,1
+"Gurugram, India",S22,1
+"Zürich, Switzerland",S22,2
+"Potsdam, Germany",S22,1
+"Bengaluru, India",S22,11
+"Downers Grove, IL",S22,1
+Mountain View,S22,2
+Palo Alto,S22,4
+"Houston, TX",S22,1
+"Panama City, Panama",S22,1
+"Walnut Creek, CA",S22,1
+"Delhi, India",S22,1
+"Orem, UT",S22,1
+"Mumbai, India",S22,1
+"Edmonton, Canada",S22,1
+"Amsterdam, Netherlands",S22,2
+"Delaware City, DE",S22,1
+"Munich, Germany",S22,1
+"Paris, France",S22,5
+"Toronto, Canada",S22,6
+"Córdoba, Argentina",S22,1
+New York,S22,22
+"Monterey, CA",S22,1
+"Hyderabad, India",S22,1
+"Austin, TX",S22,3
+"Portland, OR",S22,1
+"Miami, FL",S22,1
+"Washington, DC",S22,2
+"San Carlos, CA",S22,1
+"Grand Rapids, MI",S22,1
+"San Diego, CA",S22,1
+"Karachi, Pakistan",S22,1
+"Barcelona, Spain",S22,1
+"Kirkland, WA",S22,1
+"Wilmington, DE",S22,1
+"London, United Kingdom",S22,8
+"Los Angeles, CA",S22,6
+"Singapore, Singapore",S22,1
+"Accra, Ghana",S22,1
+"Berlin, Germany",S22,3
+"Winter Garden, FL",S22,1
+"Bandung, Indonesia",S22,1
+"Lagos, Nigeria",S22,5
+"Seattle, WA",S22,4
+"San Jose, CA",S22,1
+"São Paulo, Brazil",S22,2
+"Madrid, Spain",S22,1
+Boston,S22,2
+"Stanford, CA",S22,2
+"Tel Aviv-Yafo, Israel",S22,5
+"Jeddah, Saudi Arabia",S22,1
+"Santa Clara, CA",S22,1
+"Cambridge, MA",S22,2
+"Lima, Peru",S22,1
+"Cali, Colombia",S22,1
+"Sunnyvale, CA",S22,1
+"Makati, Philippines",S22,2
+"Santiago, Chile",S22,1
+San Francisco,S22,56
+"Berkeley, CA",S22,1
+San Francisco,W06,1
+"Chicago, IL",W06,1
+"Bethesda, MD",W06,1
+"Oyster Bay, NY",W06,1
+"Tampa, FL",W06,1
+"Somerville, MA",W06,1
+"Cambridge, MA",W07,1
+New York,W07,1
+"Corvallis, OR",W07,1
+San Francisco,W07,6
+"Santa Clara, CA",W07,1
+Germany,W07,1
+Mountain View,W07,2
+"Los Angeles, CA",W08,1
+Palo Alto,W08,1
+"Atlanta, GA",W08,1
+"Seattle, WA",W08,1
+"Atherton, CA",W08,1
+"Vancouver, Canada",W08,1
+"Arlington Heights, IL",W08,1
+San Francisco,W08,10
+"Atlanta, GA",W09,1
+"Princeton, NJ",W09,1
+San Francisco,W09,8
+CA,W09,2
+Mountain View,W09,2
+"Beijing, China",W10,1
+Boston,W10,1
+New York,W10,1
+"Redwood City, CA",W10,1
+Mountain View,W10,1
+San Francisco,W10,17
+"Santa Monica, CA",W10,1
+"Austin, TX",W10,1
+"Dublin, Ireland",W10,1
+Palo Alto,W10,1
+Mountain View,W11,2
+"London, United Kingdom",W11,1
+"Stockholm, Sweden",W11,1
+New York,W11,1
+Palo Alto,W11,3
+"Chicago, IL",W11,1
+"Ringwood, NJ",W11,1
+"Los Angeles, CA",W11,2
+"Culver City, CA",W11,1
+"San Jose, CA",W11,1
+San Francisco,W11,25
+CA,W11,1
+"Toronto, Canada",W11,1
+"Redwood City, CA",W11,1
+"Montreal, Canada",W11,1
+"Redwood City, CA",W12,2
+"Ann Arbor, MI",W12,1
+Palo Alto,W12,6
+"Los Gatos, CA",W12,1
+New York,W12,5
+"Milpitas, CA",W12,1
+San Francisco,W12,27
+"Pleasanton, CA",W12,1
+"Dakar, Senegal",W12,1
+"Santa Monica, CA",W12,1
+"Toronto, Canada",W12,1
+"Santa Clara, CA",W12,1
+"Cambridge, MA",W12,1
+"San Carlos, CA",W12,1
+"Istanbul, Turkey",W12,1
+Boston,W12,1
+"Menlo Park, CA",W12,1
+Mountain View,W12,4
+"Sunnyvale, CA",W12,2
+"London, United Kingdom",W12,1
+"San Jose, CA",W12,1
+"Portland, OR",W12,1
+"Makati, Philippines",W13,1
+"Shanghai, China",W13,1
+New York,W13,4
+"Sunnyvale, CA",W13,1
+"Redwood City, CA",W13,2
+"Cupertino, CA",W13,1
+San Francisco,W13,26
+"Honolulu, HI",W13,1
+"Bothell, WA",W13,1
+"Kitchener, Canada",W13,1
+"Oakland, CA",W13,1
+Mountain View,W13,4
+Palo Alto,W13,1
+"Atlanta, GA",W13,1
+"Oakland, CA",W14,2
+"Tel Aviv-Yafo, Israel",W14,1
+"Bengaluru, India",W14,2
+San Francisco,W14,36
+"Sterling, VA",W14,1
+"Stanford, CA",W14,1
+"Santa Clara, CA",W14,1
+New York,W14,8
+"Chattanooga, TN",W14,1
+"Emeryville, CA",W14,1
+"Paris, France",W14,1
+"Chicago, IL",W14,1
+"Toronto, Canada",W14,2
+"Ottawa, Canada",W14,1
+"Ogden, UT",W14,1
+"San Leandro, CA",W14,1
+Palo Alto,W14,4
+"Lehi, UT",W14,1
+"Hughson, CA",W14,1
+"Los Angeles, CA",W14,1
+"Victoria, Canada",W14,1
+"London, United Kingdom",W14,1
+"Kitchener, Canada",W14,1
+Mountain View,W14,1
+"Singapore, Singapore",W15,1
+"South San Francisco, CA",W15,1
+"Bangkok, Thailand",W15,1
+"Ann Arbor, MI",W15,1
+"Columbia, MO",W15,1
+"Chicago, IL",W15,1
+"Oakland, CA",W15,2
+"Emeryville, CA",W15,1
+"Niagara Falls, NY",W15,1
+"Los Angeles, CA",W15,4
+"Buenos Aires, Argentina",W15,1
+"Berkeley, CA",W15,1
+"London, United Kingdom",W15,2
+"San Jose, CA",W15,1
+"Austin, TX",W15,2
+San Francisco,W15,43
+"Troy, MI",W15,1
+"Madrid, Spain",W15,1
+"Menlo Park, CA",W15,1
+Mountain View,W15,3
+"Santa Monica, CA",W15,1
+"Hong Kong, Hong Kong",W15,1
+Palo Alto,W15,5
+"Alameda, CA",W15,1
+"McLean, VA",W15,1
+Canada,W15,1
+"Toronto, Canada",W15,3
+"Atlanta, GA",W15,1
+"Washington, DC",W15,1
+"Las Vegas, NV",W15,1
+"Ljubljana, Slovenia",W15,1
+"San Mateo, CA",W15,2
+"Mexico City, Mexico",W15,1
+"Redwood City, CA",W15,1
+"Beijing, China",W15,1
+"Santa Clara, CA",W15,1
+"Seattle, WA",W15,2
+"Foster City, CA",W15,1
+"Bengaluru, India",W15,1
+NY,W15,1
+Boston,W15,2
+"Nashville, TN",W15,1
+New York,W15,10
+"Coffeyville, KS",W16,1
+"San Mateo, CA",W16,3
+"Hong Kong, Hong Kong",W16,1
+"Pittsburgh, PA",W16,2
+"Newport Beach, CA",W16,1
+"Kitchener, Canada",W16,2
+"Menlo Park, CA",W16,4
+"Orlando, FL",W16,1
+"Chicago, IL",W16,3
+"Santa Monica, CA",W16,1
+"Oslo, Norway",W16,1
+"Cupertino, CA",W16,1
+San Francisco,W16,48
+"Durango, CO",W16,1
+"Centennial, CO",W16,1
+Palo Alto,W16,3
+"Newark, CA",W16,1
+"Bogotá, Colombia",W16,1
+"Lagos, Nigeria",W16,1
+"Boulder, CO",W16,1
+"San Carlos, CA",W16,2
+"Gurugram, India",W16,1
+NY,W16,2
+"Hyderabad, India",W16,1
+India,W16,1
+"Zapopan, Mexico",W16,1
+"San Clemente, CA",W16,1
+"Lehi, UT",W16,1
+Egypt,W16,1
+"Detroit, MI",W16,1
+"Seattle, WA",W16,3
+"Copenhagen, Denmark",W16,1
+"Montreal, Canada",W16,1
+"Burlingame, CA",W16,1
+"Hoboken, NJ",W16,1
+Mountain View,W16,1
+"Oakland, CA",W16,3
+"Austin, TX",W16,3
+"Los Angeles, CA",W16,5
+"San Jose, CA",W16,1
+"Houston, TX",W16,1
+New York,W16,7
+Hong Kong,W17,1
+Boston,W17,2
+"San Mateo, CA",W17,2
+Palo Alto,W17,1
+"Delhi, India",W17,1
+"Houston, TX",W17,1
+"San Carlos, CA",W17,1
+"Philadelphia, PA",W17,1
+"Toronto, Canada",W17,2
+"Montreal, Canada",W17,1
+"Cambridge, United Kingdom",W17,1
+"Paris, France",W17,2
+"Bogotá, Colombia",W17,1
+"Casablanca, Morocco",W17,1
+"Monterrey, Mexico",W17,1
+"Accra, Ghana",W17,1
+"Memphis, TN",W17,1
+"San Jose, CA",W17,1
+"Seattle, WA",W17,2
+Nigeria,W17,1
+"Kitchener, Canada",W17,1
+"London, United Kingdom",W17,1
+NY,W17,1
+"Budapest, Hungary",W17,1
+"Washington, DC",W17,1
+"Oakland, CA",W17,1
+"Los Angeles, CA",W17,3
+"Broken Arrow, OK",W17,1
+"Berkeley, CA",W17,1
+"Denver, CO",W17,1
+"Birmingham, AL",W17,1
+"Tel Aviv-Yafo, Israel",W17,1
+"Mexico City, Mexico",W17,1
+"Beijing, China",W17,1
+San Francisco,W17,39
+"Singapore, Singapore",W17,1
+"Lagos, Nigeria",W17,4
+"Seoul, South Korea",W17,1
+"Oxford, United Kingdom",W17,1
+Mountain View,W17,1
+New York,W17,13
+"Bengaluru, India",W17,7
+"Albany, NY",W17,1
+"Jakarta, Indonesia",W18,1
+"Sacramento, CA",W18,1
+"Seattle, WA",W18,1
+"Austin, TX",W18,2
+"Chicago, IL",W18,1
+"Washington, DC",W18,2
+"Portland, OR",W18,1
+"San Carlos, CA",W18,1
+"Riga, Latvia",W18,1
+"Huntsville, AL",W18,1
+Boston,W18,2
+Colombia,W18,1
+"Mexico City, Mexico",W18,3
+"Paris, France",W18,2
+"Singapore, Singapore",W18,1
+"Maastricht, Netherlands",W18,1
+New York,W18,8
+"San Jose, CA",W18,1
+"Newark, CA",W18,1
+"Sunnyvale, CA",W18,1
+"Berkeley, CA",W18,1
+San Francisco,W18,61
+"Noida, India",W18,1
+"Dallas, TX",W18,1
+"Los Angeles, CA",W18,2
+United Kingdom,W18,1
+"Ho Chi Minh City, Vietnam",W18,1
+"Oakland, CA",W18,3
+"Las Vegas, NV",W18,1
+"Mumbai, India",W18,1
+Mountain View,W18,4
+"South San Francisco, CA",W18,2
+NY,W18,1
+"Montreal, Canada",W18,1
+"San Diego, CA",W18,3
+"Bengaluru, India",W18,1
+"Bogotá, Colombia",W18,1
+"Toronto, Canada",W18,6
+"LaBelle, FL",W18,1
+"London, United Kingdom",W18,6
+"Cambridge, MA",W18,4
+"Surabaya, Indonesia",W18,1
+Palo Alto,W18,3
+"Kitchener, Canada",W18,2
+"Waterloo, Canada",W18,1
+"Kiel, Germany",W19,1
+India,W19,1
+"Buenos Aires, Argentina",W19,1
+"London, United Kingdom",W19,5
+"San Mateo, CA",W19,4
+"Santa Clara, CA",W19,1
+"San Jose, CA",W19,2
+"Rochester, MN",W19,1
+"Richmond, VA",W19,1
+"Alameda, CA",W19,1
+"Tel Aviv-Yafo, Israel",W19,2
+"San Diego, CA",W19,1
+"Jakarta, Indonesia",W19,1
+"Cambridge, MA",W19,3
+"Cali, Colombia",W19,1
+"Waterloo, Canada",W19,2
+"Lagos, Nigeria",W19,3
+"Kailua, HI",W19,1
+"São Paulo, Brazil",W19,1
+"Louisville, KY",W19,1
+"Los Angeles, CA",W19,8
+San Francisco,W19,62
+"Menlo Park, CA",W19,2
+"Santa Cruz, CA",W19,1
+CA,W19,1
+"Chennai, India",W19,1
+"Miami, FL",W19,1
+Boston,W19,5
+"Ames, IA",W19,1
+New York,W19,14
+Seychelles,W19,1
+"Cupertino, CA",W19,1
+"Monterrey, Mexico",W19,1
+"Philadelphia, PA",W19,2
+"Shenzhen, China",W19,2
+"Dallas, TX",W19,1
+"Bellevue, WA",W19,1
+"Munich, Germany",W19,1
+"Oakland, CA",W19,1
+"Houston, TX",W19,1
+"Panama City, Panama",W19,1
+"Somerville, MA",W19,1
+"Toronto, Canada",W19,3
+"Orlando, FL",W19,1
+"Abuja, Nigeria",W19,1
+"Berkeley, CA",W19,2
+"Oxford, United Kingdom",W19,1
+Palo Alto,W19,4
+"Denver, CO",W19,1
+"Mexico City, Mexico",W19,2
+Mountain View,W19,3
+"Dublin, CA",W19,1
+"Lima, Peru",W19,1
+"Hyderabad, India",W19,1
+"Singapore, Singapore",W19,3
+"Gurugram, India",W19,1
+"Austin, TX",W19,3
+"Prague, Czech Republic",W19,1
+"Vancouver, Canada",W19,1
+"Athens, Greece",W19,1
+"Provo, UT",W19,1
+"Seattle, WA",W19,4
+"Idaho Falls, ID",W19,1
+"Frankfurt, Germany",W19,1
+"Seoul, South Korea",W19,1
+"New Delhi, India",W19,3
+"Bengaluru, India",W19,1
+"Gothenburg, Sweden",W19,1
+"Erbil, Iraq",W19,1
+"Chicago, IL",W19,1
+"Beijing, China",W19,3
+"Winnipeg, Canada",W20,1
+Boston,W20,4
+"Ann Arbor, MI",W20,1
+"Oxford, United Kingdom",W20,1
+"Los Angeles, CA",W20,10
+Mountain View,W20,2
+"San Mateo, CA",W20,2
+"São Paulo, Brazil",W20,7
+"New Delhi, India",W20,2
+San Francisco,W20,80
+"East Palo Alto, CA",W20,1
+"Little Rock, AR",W20,1
+"Gurugram, India",W20,1
+New York,W20,20
+"Bengaluru, India",W20,11
+"Hayward, CA",W20,1
+"Singapore, Singapore",W20,1
+"Karlsruhe, Germany",W20,1
+"Emeryville, CA",W20,2
+"Nairobi, Kenya",W20,1
+"Noida, India",W20,1
+"Buenos Aires, Argentina",W20,2
+"Foster City, CA",W20,2
+"Mumbai, India",W20,6
+"London, United Kingdom",W20,3
+"Oakland, CA",W20,2
+"Oregon City, OR",W20,1
+"Kolkata, India",W20,1
+"Mexico City, Mexico",W20,4
+"Cairo, Egypt",W20,1
+Algeria,W20,1
+"Seattle, WA",W20,1
+"Santiago, Chile",W20,1
+"Chandigarh, India",W20,1
+"Waterloo, Canada",W20,1
+"Tel Aviv-Yafo, Israel",W20,1
+"Berlin, Germany",W20,2
+"Philadelphia, PA",W20,1
+"Monterrey, Mexico",W20,2
+"Pune, India",W20,1
+Indonesia,W20,1
+"Paris, France",W20,2
+"Birmingham, AL",W20,1
+"Lahore, Pakistan",W20,1
+"Medellín, Colombia",W20,1
+"Dar es Salaam, Tanzania",W20,1
+"Lagos, Nigeria",W20,4
+"Recife, Brazil",W20,1
+"Livermore, CA",W20,1
+"Chicago, IL",W20,1
+"Abuja, Nigeria",W20,1
+"Berkeley, CA",W20,4
+"Hyderabad, India",W20,1
+"Cork, Ireland",W20,1
+"Montreal, Canada",W20,1
+"Plymouth, MI",W20,1
+"Santa Monica, CA",W20,1
+Palo Alto,W20,4
+"Toronto, Canada",W20,5
+"Cambridge, MA",W20,1
+"Austin, TX",W20,2
+"Jakarta, Indonesia",W20,1
+"Houston, TX",W20,1
+"Addis Ababa, Ethiopia",W20,1
+"Zapopan, Mexico",W21,1
+"Aarhus, Denmark",W21,1
+"Stuttgart, Germany",W21,1
+"Stockholm, Sweden",W21,1
+"London, United Kingdom",W21,13
+"Zagreb, Croatia",W21,1
+"Lagos, Nigeria",W21,5
+"Seattle, WA",W21,3
+"Birmingham, United Kingdom",W21,1
+"Bogotá, Colombia",W21,2
+"Santa Clara, CA",W21,2
+"Kuala Lumpur, Malaysia",W21,1
+"Singapore, Singapore",W21,4
+"Berkeley, CA",W21,1
+"Sunshine Coast, Australia",W21,1
+"Santa Monica, CA",W21,3
+South Korea,W21,2
+"South San Francisco, CA",W21,1
+"Ljubljana, Slovenia",W21,1
+"Lima, Peru",W21,1
+"Bengaluru, India",W21,15
+"Santiago, Chile",W21,4
+"São Paulo, Brazil",W21,8
+"Las Vegas, NV",W21,1
+"Barranco, Peru",W21,1
+"Barranquilla, Colombia",W21,1
+"Berlin, Germany",W21,2
+"Graz, Austria",W21,1
+"Tempe, AZ",W21,1
+"Portland, OR",W21,1
+Mountain View,W21,1
+"Dubai, United Arab Emirates",W21,1
+"Detroit, MI",W21,1
+"Denver, CO",W21,3
+"Delhi, India",W21,2
+"Walnut Creek, CA",W21,1
+Palo Alto,W21,2
+"Houston, TX",W21,1
+"Paris, France",W21,6
+"Warsaw, Poland",W21,2
+"Monterrey, Mexico",W21,2
+"Dakar, Senegal",W21,1
+"Philadelphia, PA",W21,1
+"Pleasanton, CA",W21,1
+"Milan, Italy",W21,1
+"Miami, FL",W21,2
+"Hyderabad, India",W21,3
+"Providence, RI",W21,1
+"Copenhagen, Denmark",W21,2
+"Oslo, Norway",W21,2
+"Durham, NC",W21,2
+"Orem, UT",W21,1
+"Ho Chi Minh City, Vietnam",W21,1
+"Navi Mumbai, India",W21,1
+"New Delhi, India",W21,1
+"Glasgow, United Kingdom",W21,1
+"Nashville, TN",W21,1
+"Fremont, CA",W21,1
+"Nairobi, Kenya",W21,1
+"Fort Collins, CO",W21,1
+"Gurugram, India",W21,8
+New York,W21,34
+"Provo, UT",W21,1
+"Vienna, Austria",W21,1
+Vietnam,W21,1
+"El Dorado Hills, CA",W21,1
+"Vilnius, Lithuania",W21,1
+"Edinburgh, United Kingdom",W21,1
+"Mumbai, India",W21,3
+"Oakland, CA",W21,3
+"Atlanta, GA",W21,2
+"Omaha, NE",W21,1
+"Ontario, CA",W21,1
+"North Kingstown, RI",W21,1
+"Québec City, Canada",W21,1
+"Toronto, Canada",W21,12
+"Coimbatore, India",W21,1
+"Cambridge, MA",W21,2
+"Manila, Philippines",W21,2
+"Calgary, Canada",W21,1
+"Cairo, Egypt",W21,3
+"Makati, Philippines",W21,1
+CA,W21,2
+"Karachi, Pakistan",W21,1
+"Los Angeles, CA",W21,11
+San Francisco,W21,62
+"Bandung, Indonesia",W21,1
+"Buenos Aires, Argentina",W21,1
+"San Jose, CA",W21,1
+"Brussels, Belgium",W21,1
+"Tallinn, Estonia",W21,1
+"Los Altos, CA",W21,1
+Brazil,W21,1
+"Boulder, CO",W21,1
+"Barcelona, Spain",W21,1
+"San Mateo, CA",W21,3
+"Raipur, India",W21,1
+"San Diego, CA",W21,2
+"Marlboro, VT",W21,1
+"Menlo Park, CA",W21,1
+"Richmond, CA",W21,1
+"Irvine, CA",W21,1
+"Medellín, Colombia",W21,1
+"Guadalajara, Mexico",W21,1
+"Redwood City, CA",W21,1
+"Saint Petersburg, FL",W21,1
+"Chicago, IL",W21,2
+"Reston, VA",W21,1
+"Chennai, India",W21,1
+"Tel Aviv-Yafo, Israel",W21,1
+"Mexico City, Mexico",W21,8
+"Austin, TX",W21,5
+"Salt Lake City, UT",W21,1
+"Asheville, NC",W22,1
+"Vancouver, Canada",W22,1
+"São Paulo, Brazil",W22,6
+"Sydney, Australia",W22,3
+"Wilmington, DE",W22,1
+"Bellevue, WA",W22,1
+Taiwan,W22,1
+"Victoria, Canada",W22,1
+"Toulouse, France",W22,1
+"Austin, TX",W22,4
+"Waterloo, Canada",W22,1
+"Tel Aviv-Yafo, Israel",W22,3
+"Walnut Creek, CA",W22,1
+"Addis Ababa, Ethiopia",W22,1
+"Toronto, Canada",W22,6
+"Atlanta, GA",W22,4
+"Amsterdam, Netherlands",W22,1
+"Sunnyvale, CA",W22,1
+"Washington, DC",W22,3
+"Auckland, New Zealand",W22,1
+"The Hague, Netherlands",W22,1
+"Barcelona, Spain",W22,2
+"Portland, OR",W22,1
+"Bengaluru, India",W22,18
+"Munich, Germany",W22,2
+"Hanoi, Vietnam",W22,1
+"Gurugram, India",W22,5
+"Nairobi, Kenya",W22,2
+"Guadalajara, Mexico",W22,1
+"Nashville, TN",W22,1
+"New Delhi, India",W22,2
+"Gold Coast, Australia",W22,1
+"Fredericton, Canada",W22,1
+New York,W22,42
+"Nottingham, United Kingdom",W22,1
+"Edmonton, Canada",W22,1
+"Ecublens, Switzerland",W22,1
+"Oakland, CA",W22,4
+"Oslo, Norway",W22,1
+"Dublin, CA",W22,1
+"Dubai, United Arab Emirates",W22,5
+"Stockholm, Sweden",W22,2
+"Denver, CO",W22,3
+"Delhi, India",W22,2
+Palo Alto,W22,5
+"Panama City, Panama",W22,2
+"Dayton, OH",W22,1
+"Helsinki, Finland",W22,1
+"Mumbai, India",W22,3
+"Ho Chi Minh City, Vietnam",W22,3
+Mountain View,W22,3
+"Lehi, UT",W22,1
+"Lima, Peru",W22,1
+"Lagos, Nigeria",W22,17
+"Kuala Lumpur, Malaysia",W22,1
+"London, United Kingdom",W22,10
+"Kitchener, Canada",W22,2
+"Karachi, Pakistan",W22,2
+"Los Angeles, CA",W22,14
+"Kampala, Uganda",W22,1
+"Madrid, Spain",W22,2
+"Manama, Bahrain",W22,1
+"Paris, France",W22,4
+"Mannheim, Germany",W22,1
+"Jakarta, Indonesia",W22,16
+"Medellín, Colombia",W22,1
+"Melbourne, Australia",W22,1
+"Islamabad, Pakistan",W22,2
+"Mexico City, Mexico",W22,9
+"Ibadan, Nigeria",W22,2
+"Miami, FL",W22,5
+"Minneapolis, MN",W22,1
+"Huntington Beach, CA",W22,1
+"Houston, TX",W22,4
+"Hong Kong, Hong Kong",W22,1
+"Maracaibo, Venezuela",W22,1
+"Pasadena, CA",W22,1
+"Detroit, MI",W22,1
+"Cancún, Mexico",W22,1
+"San Carlos, CA",W22,1
+"San Diego, CA",W22,1
+"Cambridge, MA",W22,1
+CA,W22,2
+San Francisco,W22,60
+Singapore,W22,1
+"Seoul, South Korea",W22,1
+"Buenos Aires, Argentina",W22,3
+"Carlsbad, CA",W22,1
+"San Jose, CA",W22,4
+"Berlin, Germany",W22,4
+"Córdoba, Argentina",W22,1
+"San José, Costa Rica",W22,1
+"Santiago, Chile",W22,2
+"Santa Monica, CA",W22,2
+Boston,W22,4
+"San Mateo, CA",W22,1
+"Bogotá, Colombia",W22,5
+"Seattle, WA",W22,4
+"Salt Lake City, UT",W22,3
+"Santa Clara, CA",W22,2
+"Chennai, India",W22,1
+"Pune, India",W22,1
+"Raleigh, NC",W22,1
+"Cincinnati, OH",W22,1
+"Lausanne, Switzerland",W22,1
+"Redwood City, CA",W22,2
+"Chicago, IL",W22,1
+South Korea,W22,2
+"Singapore, Singapore",W22,8
+"Royal Oak, MI",W22,1
+"Cyberjaya, Malaysia",W22,1
+"Berkeley, CA",W22,3
+"Copenhagen, Denmark",W22,2
+"South Bend, IN",W22,1
+"Manchester, United Kingdom",W23,1
+"Lehi, UT",W23,1
+"Santiago, Chile",W23,2
+"Berlin, Germany",W23,2
+"Lagos, Nigeria",W23,2
+"London, United Kingdom",W23,4
+"Seattle, WA",W23,2
+"Los Angeles, CA",W23,3
+"Woodland, CA",W23,1
+"Singapore, Singapore",W23,1
+"Berkeley, CA",W23,1
+"Bogotá, Colombia",W23,1
+"Lahore, Pakistan",W23,1
+"Philadelphia, PA",W23,1
+Mountain View,W23,3
+"San Mateo, CA",W23,1
+"Paris, France",W23,2
+"Portland, OR",W23,1
+Palo Alto,W23,1
+"Provo, UT",W23,1
+"Raleigh, NC",W23,1
+"Dubai, United Arab Emirates",W23,1
+"Oakland, CA",W23,1
+"Riyadh, Saudi Arabia",W23,1
+"Tel Aviv-Yafo, Israel",W23,5
+New York,W23,27
+"Vancouver, Canada",W23,1
+"Haifa, Israel",W23,1
+"Hamburg, Germany",W23,1
+San Francisco,W23,117
+"Munich, Germany",W23,1
+"San Jose, CA",W23,1
+"Tangerang, Indonesia",W23,1
+"Brisbane, Australia",W23,1
+"Hong Kong, Hong Kong",W23,1
+"Montreal, Canada",W23,1
+Boston,W23,3
+"Montevideo, Uruguay",W23,1
+"São Paulo, Brazil",W23,1
+"Mexico City, Mexico",W23,2
+"Zürich, Switzerland",W23,1

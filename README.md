@@ -1,6 +1,6 @@
 # 🚀 Y Combinator Companies & Evolution of Startup Ecosystem
 
-![Y Combinator Logo](images/yc_logo.png)  
+![Y Combinator Logo](images/YC_logo.png)  
 *A data visualization project analyzing the impact of Y Combinator-funded startups on the global startup ecosystem.*
 
 ---

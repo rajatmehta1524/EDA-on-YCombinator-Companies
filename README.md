@@ -9,7 +9,7 @@
 
 Y Combinator (YC) is one of the most influential startup accelerators, funding over 4,000 startups, including **Airbnb, Dropbox, Stripe, and Reddit**. This project explores YC's growth, trends in venture capital (VC) investments, and the success rate of incubated companies using **data analytics and visualization techniques**.  
 
-📺 **Project Video:** [Click Here](https://shorturl.at/kBN04)  
+ 📝**Detailed Project Report :** [Click Here](https://drive.google.com/file/d/1I0q57vI9_xOL0XldaUWalNPMv8zpsAGU/view?usp=sharing)  
 
 ---
 

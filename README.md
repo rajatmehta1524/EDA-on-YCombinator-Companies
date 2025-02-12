@@ -125,27 +125,9 @@ We collected data from multiple sources:
 
 ---
 
-## 👨‍💻 Contributors  
-
-| Name | Role |
-|------|------|
-| **Rajat Mehta** | Project Direction, Data Collection, Cleaning, Visualizations, Report Writing |
-| **Dhivya Kumaraguruparan** | Data Collection, Visualization, Report Writing |
-| **Goutham Ganesh Rajan** | Data Cleaning, Visualization, Video Creation |
-
----
-
 ## 📜 License  
 This project is licensed under the **MIT License**.
 
 ---
 💡 **For questions or contributions, contact:** [mehta.rajat@northeastern.edu](mailto:mehta.rajat@northeastern.edu)  
 
-
-
-
-Next Steps for You:
-    1. Create an images/ folder in your GitHub repository.
-    2. Upload the visualizations (graphs, charts, maps, etc.) you used in the report.
-    3. Update the image paths in the README file to match the actual filenames.
-    4. Push your repository to GitHub! 🎉

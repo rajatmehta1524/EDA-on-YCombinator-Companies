@@ -129,6 +129,3 @@ We collected data from multiple sources:
 This project is licensed under the **MIT License** - - see the [LICENSE](LICENSE) file for details.
 .
 
----
-💡 **For questions or contributions, contact:** [mehta.rajat@northeastern.edu](mailto:mehta.rajat@northeastern.edu)  
-
